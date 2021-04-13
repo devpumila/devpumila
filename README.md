@@ -5,6 +5,7 @@
 좋은 개발자로 성장하기 위해 학습, 경험하고 있습니다.
 
 [내 포트폴리오](https://github.com/devpumila/portfolio/blob/main/README.md)
+[내 이력서](https://devpumila.github.io)
 <!--
 **devpumila/devpumila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
